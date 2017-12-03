@@ -1,0 +1,126 @@
+Vilnius
+Kaunas
+Klaipėda
+Šiauliai
+Panevėžys
+Alytus
+Akmenės r.
+Alytaus r.
+Anykščių r.
+Birštonas
+Biržų r.
+Druskininkai
+Elektrėnai
+Ignalinos r.
+Jonavos r.
+Joniškio r.
+Jurbarko r.
+Kaišiadorių r.
+Kalvarija
+Kauno r.
+Kazlų Rūda
+Kėdainių r.
+Kelmės r.
+Klaipėdos r.
+Kretingos r.
+Kupiškio r.
+Lazdijų r.
+Marijampolė
+Mažeikių r.
+Molėtų r.
+Neringa
+Pagėgiai
+Pakruojo r.
+Palanga
+Panevėžio r.
+Pasvalio r.
+Plungės r.
+Prienų r.
+Radviliškio r.
+Raseinių r.
+Rietavas
+Rokiškio r.
+Skuodo r.
+Šakių r.
+Šalčininkų r.
+Šiaulių r.
+Šilalės r.
+Šilutės r.
+Širvintų r.
+Švenčionių r.
+Tauragės r.
+Telšių r.
+Trakų r.
+Ukmergės r.
+Utenos r.
+Varėnos r.
+Vilkaviškio r.
+Vilniaus r.
+Visaginas
+Zarasų r.
+Vilnius
+Kaunas
+Klaipėda
+Šiauliai
+Panevėžys
+Akmenė
+Alytus
+Anykščiai
+Ariogala
+Birštonas
+Biržai
+Druskininkai
+Elektrėnai
+Gargždai
+Ignalina
+Jonava
+Joniškis
+Juodkrantė
+Jurbarkas
+Kaišiadorys
+Kalvarija
+Karklė
+Kazlų Rūda
+Kėdainiai
+Kelmė
+Kretinga
+Kupiškis
+Kuršėnai
+Lazdijai
+Marijampolė
+Mažeikiai
+Melnragė
+Molėtai
+Naujoji Akmenė
+Nemenčinė
+Neringa
+Nida
+Pagėgiai
+Pakruojis
+Palanga
+Pasvalys
+Plungė
+Prienai
+Radviliškis
+Raseiniai
+Rietavas
+Rokiškis
+Šakiai
+Šalčininkai
+Šilalė
+Šilutė
+Širvintos
+Skaudvilė
+Skuodas
+Švenčionys
+Šventoji
+Tauragė
+Telšiai
+Trakai
+Ukmergė
+Utena
+Varėna
+Vievis
+Vilkaviškis
+Visaginas
+Zarasai
